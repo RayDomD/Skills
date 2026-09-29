@@ -4,7 +4,13 @@ A skill that turns any folder into a course that remembers you. Tell it what you
 
 ## Install
 
-Copy this whole `learn` folder into your agent's skills folder:
+With Node.js installed, one command does it:
+
+```
+npx skills add RayDomD/Skills --skill learn -g
+```
+
+Or copy this whole `learn` folder into your agent's skills folder by hand (see the [repo README](../README.md#by-hand) for downloading it):
 
 | Agent | Put it at |
 | --- | --- |
