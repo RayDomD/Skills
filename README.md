@@ -5,6 +5,8 @@ Agent skills I use and maintain. Each folder is one skill.
 | Skill | What it does |
 | --- | --- |
 | [learn](./learn) | Turns any folder into a course that remembers you: short lessons pitched just past what you know, real quizzes, and a progress page that picks up where you left off. |
+| [soulkill](./soulkill) | Captures a person into a sourced advisor brain from their videos, writing, or files you supply, then lets you ask it questions. Every quote is tied to a source. Claude Code, global install. |
+| [mikoshi](./mikoshi) | Seats two or more soulkill brains around a decision or question, runs them through debate rounds, and writes a scored verdict. Needs soulkill installed. Claude Code, global install. |
 
 ## Install
 
