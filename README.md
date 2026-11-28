@@ -4,6 +4,7 @@ Agent skills I use and maintain. Each folder is one skill.
 
 | Skill | What it does |
 | --- | --- |
+| [handoff](./handoff) | Compacts the current conversation into a living Markdown handoff document in OS temp (with suggested skills, open decisions + defaults, and file pointers) so a fresh session can pick up at `0k` in the Smart Zone. |
 | [grilling](./grilling) | Relentlessly interviews you about a plan, decision, or idea as a design tree — asking the whole frontier of unblocked questions each round with recommended answers until nothing is left silently assumed. |
 | [learn](./learn) | Turns any folder into a course that remembers you: short lessons pitched just past what you know, real quizzes, and a progress page that picks up where you left off. |
 | [soulkill](./soulkill) | Captures a person into a sourced advisor brain from their videos, writing, or files you supply, then lets you ask it questions. Every quote is tied to a source. Claude Code, global install. |
